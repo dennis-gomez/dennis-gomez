@@ -1,14 +1,7 @@
-<h1>Hello there!👋🏻</h1>
+<h1>🙋🏻‍♂️ I’m Dennis Gómez Alvarado. Welcome to my profile!</h1>
 
 <!-- banner -->
 ![Banner](https://github.com/dennis-gomez/dennis-gomez/blob/main/banner.png)
-
-<!-- greeting -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">🙋🏻‍♂️ I’m Dennis Gomez Alvarado. Welcome to my profile!</h2></summary>
-  </ul>
-</div>
 
 <!-- personal information -->
 <div id="user-content-toc">
