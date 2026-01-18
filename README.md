@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1>Hi 👋, I'm Dennis Gómez Alvarado</h1>
 
-<!--
-**dennis-gomez/dennis-gomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- banner -->
+![Banner](https://github.com/dennis-gomez/dennis-gomez/blob/main/banner.png)
 
-Here are some ideas to get you started:
+<!-- personal information -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">👨🏻‍💻 About Me</h2></summary>
+  </ul>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>-&nbsp;Exploring new technologies and developing programming insights.</p>
+<p>-&nbsp;Graduated in Business Informatics from the University of Costa Rica.</p>
+
+<!-- technologies -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🛠️ Languages, Frameworks and Tools</h2></summary>
+  </ul>
+</div>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,ts,cs,html,react,express,spring,nodejs,dotnet,bootstrap,tailwind,materialui,git,github,postgres,mysql,figma,postman,docker,vscode&perline=14" />
+  </a>
+</p>
