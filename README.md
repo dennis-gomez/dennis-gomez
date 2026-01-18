@@ -1,7 +1,14 @@
-<h1>Hi 👋, I'm Dennis Gómez Alvarado</h1>
+<h1>Hello there!👋🏻</h1>
 
 <!-- banner -->
 ![Banner](https://github.com/dennis-gomez/dennis-gomez/blob/main/banner.png)
+
+<!-- greeting -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🙋🏻‍♂️ I’m Dennis Gomez Alvarado. Welcome to my profile!</h2></summary>
+  </ul>
+</div>
 
 <!-- personal information -->
 <div id="user-content-toc">
@@ -12,7 +19,7 @@
 
 <p>-&nbsp;Exploring new technologies and developing programming insights.</p>
 <p>-&nbsp;Graduated in Business Informatics from the University of Costa Rica.</p>
-
+<p>-&nbsp;I work with Java, Node.js, C#, .NET, Spring Boot, PostgreSQL, MySQL, and Docker.</p>
 <!-- technologies -->
 <div id="user-content-toc">
   <ul align="center">
